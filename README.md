@@ -1,2 +1,2 @@
 # Ejemplo-POO
-POO en c++
+POO en c++, clases, métodos...
